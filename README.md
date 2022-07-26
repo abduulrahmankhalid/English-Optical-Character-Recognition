@@ -1,6 +1,8 @@
 # English-Optical-Character-Recognition
 English OCR With Emnist Dataset Using Random Forests and Decision Trees
 
+The repository is a part of course work for CS 361 Artificial Intelligence - FCAI-HU
+
 Optical character recognition or optical character reader (OCR) is the automated
 
 conversion of images of typed, handwritten, or printed text into machine-
